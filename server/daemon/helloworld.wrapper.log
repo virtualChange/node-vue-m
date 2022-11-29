@@ -1,0 +1,94 @@
+2022-06-26 14:15:12 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-26 14:15:12 - Started 6320
+2022-06-26 14:15:26 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-26 14:15:26 - Started 6324
+2022-06-26 14:17:25 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-26 14:17:25 - Started 3004
+2022-06-26 14:21:26 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-26 14:21:26 - Started 1888
+2022-06-26 14:27:18 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-26 14:27:18 - Started 6680
+2022-06-26 14:30:11 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-26 14:30:11 - Started 1460
+2022-06-26 14:30:41 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-26 14:30:41 - Started 3564
+2022-06-26 15:08:23 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-26 15:08:24 - Started 9096
+2022-06-27 08:55:35 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-27 08:55:35 - Started 4844
+2022-06-27 19:55:37 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-27 19:55:37 - Started 4752
+2022-06-28 09:28:52 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-28 09:28:52 - Started 2040
+2022-06-28 15:32:58 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-28 15:32:59 - Started 2200
+2022-06-28 16:58:19 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-28 16:58:36 - Started 3240
+2022-06-29 08:53:55 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-29 08:53:55 - Started 1528
+2022-06-30 09:38:25 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-30 09:38:25 - Started 5312
+2022-06-30 20:39:13 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-06-30 20:39:13 - Started 5952
+2022-07-01 10:34:02 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-01 10:34:02 - Started 4240
+2022-07-02 10:51:09 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-02 10:51:09 - Started 3536
+2022-07-02 12:36:50 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-02 12:36:50 - Started 5900
+2022-07-03 09:51:28 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-03 09:51:28 - Started 4368
+2022-07-03 18:39:49 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-03 18:39:50 - Started 2000
+2022-07-03 21:11:36 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-03 21:11:36 - Started 1944
+2022-07-04 11:06:00 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-04 11:06:00 - Started 1856
+2022-07-05 16:28:13 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-05 16:28:14 - Started 3304
+2022-07-05 17:29:09 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-05 17:29:09 - Started 6196
+2022-07-06 08:54:47 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-06 08:54:47 - Started 4504
+2022-07-07 10:21:00 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-07 10:21:00 - Started 4540
+2022-07-08 11:09:53 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-08 11:09:53 - Started 4496
+2022-07-08 17:38:03 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-08 17:38:03 - Started 3444
+2022-07-09 08:36:04 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-09 08:36:05 - Started 4960
+2022-07-09 22:48:31 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-09 22:48:31 - Started 4980
+2022-07-10 09:46:06 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-10 09:46:06 - Started 5016
+2022-07-11 16:49:56 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-11 16:49:56 - Started 5800
+2022-07-12 11:10:19 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-12 11:10:20 - Started 4796
+2022-07-12 16:41:34 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-07-12 16:41:34 - Started 5160
+2022-08-03 13:32:41 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-03 13:32:41 - Started 1176
+2022-08-03 17:52:53 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-03 17:52:53 - Started 4948
+2022-08-04 06:43:04 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-04 06:43:04 - Started 1848
+2022-08-04 08:44:43 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-04 08:44:44 - Started 5284
+2014-01-01 21:32:38 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2014-01-01 21:32:38 - Started 3608
+2022-08-10 21:59:50 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-08-10 21:59:50 - Started 6268
+2014-01-01 00:05:11 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2014-01-01 00:05:12 - Started 5020
+2022-09-02 00:22:11 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-09-02 00:22:12 - Started 3776
+2022-09-02 00:28:51 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-09-02 00:28:52 - Started 4176
+2022-09-02 11:03:32 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-09-02 11:03:32 - Started 5848
+2022-09-02 15:15:01 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-09-02 15:15:01 - Started 3032
+2022-09-02 22:53:09 - Starting D:\node\node.exe  --harmony --max_old_space_size=4096 E:\porject\node-vue-m\server\node_modules\node-windows\lib\wrapper.js --file E:\porject\node-vue-m\server\index.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst false
+2022-09-02 22:53:09 - Started 2056
