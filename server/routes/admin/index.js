@@ -12,7 +12,7 @@ module.exports = app => {
         { prefix: '/admin/api' }
     );
 
-    //异常捕获
+    //异常捕获  assert包的报错方式是抛出异常
     app.use(async (ctx, next) => {
         try {
             await next();
