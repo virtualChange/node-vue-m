@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "element-ui": "^2.4.5",
     "mongodb": "^4.12.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.0.3",
+    "vue-cli-plugin-element": "~1.0.1",
+    "vue-cli-plugin-element-ui": "~1.1.4"
   }
 }
