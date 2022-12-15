@@ -5,8 +5,20 @@ const schema = new mongoose.Schema({
   avatar: { type: String },//头像
   banner: { type: String },//图片
   title: { type: String },//称号
+  hero_type: { type: Number }, //1-6 战士,法师,坦克,刺客,射手,辅助
+  hero_type2: { type: Number },
+  ename: { type: Number }, //英雄排名 对应头像id
+  skin_name: { type: String },
+  moss_id: { type: Number },
+  // "ename": 106,
+  // "cname": "小乔",
+  // "title": "恋之微风",
+  // "new_type": 0,
+  // "hero_type": 2,
+  // "skin_name": "恋之微风|万圣前夜|天鹅之梦|纯白花嫁|缤纷独角兽",
+  // "moss_id":3644
 
-  categories: [{ type: mongoose.SchemaTypes.ObjectId, ref: 'Category' }],//英雄分类
+  categories: [{ type: mongoose.SchemaTypes.ObjectId, ref: 'category' }],//英雄分类
   scores: {//英雄难度分数
     difficult: { type: Number },//难度
     skills: { type: Number },//技能

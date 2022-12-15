@@ -12,7 +12,11 @@ require('./plugins/bodyParser')(app)//中间件获取post请求参数
 require('./routes/admin/index.js')(app)//路由
 require('./routes/admin/categories.js')(app)//路由
 require('./db')//连接数据库
+
+require('./web/init')(app)
 const path = require('path')
+
+require('./web/index')
 app.use(static(path.join(__dirname), {
 
 }))//koa静态文件托管

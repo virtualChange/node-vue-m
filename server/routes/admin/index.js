@@ -30,10 +30,13 @@ module.exports = app => {
         const res = await ctx.module.create(ctx.request.body)
         ctx.body = res
     })
+
+        //图片上传
         .post(
             '/admin/api/upload',
             upload.single('file'),//配置单一的文件类型
             ctx => {
+                // console.log();
                 ctx.file.url = `http://localhost:3000/upload/${ctx.file.filename}`
                 ctx.body = ctx.file;
             }
@@ -65,6 +68,13 @@ module.exports = app => {
         //根据分类id获取分类名称
         .get('/:id', async ctx => {
             const res = await ctx.module.findById(ctx.params.id)
+            .populate({
+                path: 'categories',
+                select:'name'
+            }
+               
+           )
+            console.log(res);
             ctx.body = res
         })
         //获取分类列表
